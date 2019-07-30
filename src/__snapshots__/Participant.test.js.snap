@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participant testing renders this UI expected 1`] = `
+Array [
+  <div
+    className="person"
+  >
+    <img
+      alt="avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <div>
+      Koren Templeton
+    </div>
+    <div
+      className="status"
+    >
+      <span
+        className="dot green-dot"
+      />
+      <div>
+        on stage
+      </div>
+    </div>
+  </div>,
+  <div
+    className="person"
+  >
+    <img
+      alt="avatar"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <div>
+      Caty Flucker
+    </div>
+    <div
+      className="status"
+    >
+      <span
+        className="dot green-dot"
+      />
+      <div>
+        in session
+      </div>
+    </div>
+  </div>,
+  <div
+    className="person"
+  >
+    <img
+      alt="avatar"
+      src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+    />
+    <div>
+      Frank Runciman
+    </div>
+    <div
+      className="status"
+    >
+      <span
+        className="dot green-dot"
+      />
+      <div>
+        in session
+      </div>
+    </div>
+  </div>,
+  <div
+    className="person"
+  >
+    <img
+      alt="avatar"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <div>
+      Ashla Attwool
+    </div>
+    <div
+      className="status"
+    >
+      <span
+        className="dot green-dot"
+      />
+      <div>
+        on stage
+      </div>
+    </div>
+  </div>,
+  <div
+    className="person"
+  >
+    <img
+      alt="avatar"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <div>
+      Axe Kubicka
+    </div>
+    <div
+      className="status"
+    >
+      <span
+        className="dot grey-dot"
+      />
+      <div>
+        left session
+      </div>
+    </div>
+  </div>,
+]
+`;
